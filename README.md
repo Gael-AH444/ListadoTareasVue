@@ -1,4 +1,4 @@
-# frontend-proyecto-tareas
+# Proyecto listado de tareas usando Vue
 
 ## Project setup
 ```
